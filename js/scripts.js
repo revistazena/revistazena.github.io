@@ -10,8 +10,8 @@ function topFunction() {
 }
 // AD-SENSE
 (adsbygoogle = window.adsbygoogle || []).push({
-    google_ad_client: "ca-pub-5339434063695831",
-    enable_page_level_ads: true
+  google_ad_client: "ca-pub-5339434063695831",
+  enable_page_level_ads: true
 });
 //ANALYTICS
   window.dataLayer = window.dataLayer || [];
