@@ -12,7 +12,7 @@ marcador: pagina-inicial
 
 <section class="post-list">
     <ul>
-        {% for post in site.posts limit: 4 order:rand %}
+        {% for post in site.posts limit: 4 %}
         <li onclick="location.href='{{ post.url | prepend: site.baseurl }}'"
             title="{{ post.title }} por {{post.author}} em {{ post.date | date: '%d/%m/%Y' }}">
             <div title=" {{ post.title }}"

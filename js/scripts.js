@@ -14,12 +14,11 @@ function topFunction() {
     enable_page_level_ads: true
 });
 //ANALYTICS
-window.dataLayer = window.dataLayer || [];
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-function gtag() {
-    dataLayer.push(arguments);
-}
-gtag('js', new Date());
+  gtag('config', 'UA-39968385-5');
 
 
 // Find all iframes
