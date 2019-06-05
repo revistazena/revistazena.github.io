@@ -1,0 +1,118 @@
+---
+layout: home
+---
+
+<!doctype html class="no-js">
+<!--
+
+  
+██████╗ ███████╗██╗   ██╗██╗███████╗████████╗ █████╗     ███████╗███████╗███╗   ██╗ █████╗ 
+██╔══██╗██╔════╝██║   ██║██║██╔════╝╚══██╔══╝██╔══██╗    ╚══███╔╝██╔════╝████╗  ██║██╔══██╗
+██████╔╝█████╗  ██║   ██║██║███████╗   ██║   ███████║      ███╔╝ █████╗  ██╔██╗ ██║███████║
+██╔══██╗██╔══╝  ╚██╗ ██╔╝██║╚════██║   ██║   ██╔══██║     ███╔╝  ██╔══╝  ██║╚██╗██║██╔══██║
+██║  ██║███████╗ ╚████╔╝ ██║███████║   ██║   ██║  ██║    ███████╗███████╗██║ ╚████║██║  ██║
+╚═╝  ╚═╝╚══════╝  ╚═══╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝    ╚══════╝╚══════╝╚═╝  ╚═══╝╚═╝  ╚═╝
+
+Desenvolvido por Wagner Beethoven (http://sumo.pe)
+
+-->
+
+
+<head lang="pt-br">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+  <!-- Plain Description -->
+  <title>{{ site.title }}</title>
+  <meta name="description" content="{% if page.excerpt %}{{page.excerpt}}{% else %}{{site.tagline}}{% endif %}">
+  <link rel="icon" type="image/png" href="{{site.url}}/img/favicon.png">
+
+  <!-- Facebook -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title"
+    content="{% if page.fulltitle %}{{page.fulltitle}}{% else %}{{page.title}} | {{ site.title }} {% endif %}" />
+  <meta property="og:description"
+    content="{% if page.excerpt %}{{page.excerpt}}{% else %}{{site.tagline}}{% endif %}" />
+  <meta property="og:image"
+    content="{% if page.image %}{{site.url}}/{{page.image}}{% else %}{{site.url}}/{{site.socialimg}}{% endif %}" />
+  <meta property="og:url" content="{{site.url}}/{{page.url}}" />
+  <meta property="og:site_name" content="{{ site.title }} " />
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title"
+    content="{% if page.fulltitle %}{{page.fulltitle}}{% else %}{{page.title}} | {{ site.title }} {% endif %}">
+  <meta name="twitter:description" content="{% if page.excerpt %}{{page.excerpt}}{% else %}{{site.tagline}}{% endif %}">
+  <meta name="twitter:image" content="{{site.url}}/img/social/banner/twitter.jpg}}">
+  <meta name="twitter:url" content="{{site.url}}/{{page.url}}">
+
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600" rel="stylesheet">
+  <link rel="stylesheet" href="{{site.url}}/css/main.css">
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+  <!--[if lt IE 8]>
+	  <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+	<![endif]-->
+</head>
+
+<body class="row">
+  <div class="container" id="{{page.marcador}}">
+    <header class="header">
+      <div onclick="location.href='{{site.url}}';" class="header-icon" id="header-icon">
+        <div class="header-mask"></div>
+        <div id="header-paint" class="header-paint"></div>
+      </div>
+      <div class="header-navigation">
+        <h1 class="site-title" title="{{site.title}}">
+          <a class="site-logo" href="{{site.url}}" title="{{site.title}}">
+            <img src="{{site.url}}/img/logo.svg" alt="">
+          </a>
+        </h1>
+        <nav class="menu-collapse">
+
+          <a href="{{site.url}}/">Página inicial</a>
+          <a href="{{site.url}}/todas-as-publicacoes">Todas as publicações</a>
+          <a href="{{site.url}}/sobre">Sobre</a>
+          <a href="{{site.url}}/contato">Contato</a>
+          <a class="rede-social" target="_blank" href="http://facebook.com/revistazena"
+            title="Curta nossa página no Facebook"><img src="{{site.url}}/img/social/icones/facebook.svg"
+              alt="Curta nossa página no Facebook"></i></a>
+          <a class="rede-social" target="_blank" href="http://twitter.com/revistazena"
+            title="Siga nosso perfil no Twitter"><img src="{{site.url}}/img/social/icones/twitter.svg"
+              alt="Siga nosso perfil no Twitter"></a>
+          <a class="rede-social" target="_blank" href="http://instagram.com/revistazena"
+            title="Siga nosso perfil no Instagram"><img src="{{site.url}}/img/social/icones/instagram.svg"
+              alt="Siga nosso perfil no Instagram"></a>
+        </nav>
+
+        <span class="clearfix"></span>
+      </div>
+    </header>
+    <main class="page page-{{page.marcador}}">
+      {{content}}
+    </main>
+    <footer>
+
+      <img src="{{site.url}}/img/favicon.png" class="divisor" onclick="topFunction()">
+      <p class="credito">
+        O site da <strong>{{site.name}}</strong> foi desenvolvido pela <a href="htt://sumo.pe"
+          target="_blank"><strong>Agência Sumô</strong> </a> com <span class="coracao">❤️</span> no <a
+          href="https://jekyllrb.com/" target="_blank">Jekyll</a> + <a href="http://github.com/revistazena">Github</a>.
+        <br>
+        Todo o material publicado no site está sob licença <a
+          href="https://creativecommons.org/licenses/by-nc-nd/3.0/deed.pt_BR" target="_blank"
+          title="Creative Commons">Creative Commons</a>.
+        <br>
+        <a href="{{site.url}}/politica-privacidade">Política de Privacidade</a>
+      </p>
+    </footer>
+  </div>
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-39968385-5"></script>
+  <script src="{{site.baseurl}}/js/scripts.js"></script>
+  </div>
+</body>
+
+</html>
