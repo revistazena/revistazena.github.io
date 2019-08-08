@@ -42,8 +42,9 @@ Ao ver a farra na Casa dos Vaqueiros, alojamento que recebe vaqueiros e vaqueira
 
 ## Confira algumas fotos (Créditos das fotografias abaixo são da Isa Apolinário)
 
-[![Foto: Isa Apolinário](https://raw.githubusercontent.com/revistazena/img/master/missa-do-vaqueiro-2019-02-foto-isa-apolinario.jpg)]
-[![Foto: Isa Apolinário](https://raw.githubusercontent.com/revistazena/img/master/missa-do-vaqueiro-2019-03-foto-isa-apolinario.jpg)]
-[![Foto: Isa Apolinário](https://raw.githubusercontent.com/revistazena/img/master/missa-do-vaqueiro-2019-04-foto-isa-apolinario.jpg)]
-[![Foto: Isa Apolinário](https://raw.githubusercontent.com/revistazena/img/master/missa-do-vaqueiro-2019-05-foto-isa-apolinario.jpg)]
-[![Foto: Isa Apolinário](https://raw.githubusercontent.com/revistazena/img/master/missa-do-vaqueiro-2019-06-foto-isa-apolinario.jpg)]
+![Foto: Isa Apolinário](https://raw.githubusercontent.com/revistazena/img/master/missa-do-vaqueiro-2019-02-foto-isa-apolinario.jpg)
+![Foto: Isa Apolinário](https://raw.githubusercontent.com/revistazena/img/master/missa-do-vaqueiro-2019-03-foto-isa-apolinario.jpg)
+![Foto: Isa Apolinário](https://raw.githubusercontent.com/revistazena/img/master/missa-do-vaqueiro-2019-04-foto-isa-apolinario.jpg)
+![Foto: Isa Apolinário](https://raw.githubusercontent.com/revistazena/img/master/missa-do-vaqueiro-2019-05-foto-isa-apolinario.jpg)
+![Foto: Isa Apolinário](https://raw.githubusercontent.com/revistazena/img/master/missa-do-vaqueiro-2019-01-foto-isa-apolinario.jpg)
+![Foto: Isa Apolinário](https://raw.githubusercontent.com/revistazena/img/master/missa-do-vaqueiro-2019-07-foto-isa-apolinario.jpg)
