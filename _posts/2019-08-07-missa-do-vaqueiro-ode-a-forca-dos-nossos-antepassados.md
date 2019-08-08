@@ -41,12 +41,13 @@ O Secretário de Turismo de PE, Rodrigo Novaes, esteve presente e confirmou o ap
 Ao ver a farra na Casa dos Vaqueiros, alojamento que recebe vaqueiros e vaqueiras de várias regiões, me dei conta que a festa é tipo o carnaval deles. Sabe aquele momento da música de Gonzaga em que depois de muita labuta vivemos o: “e deixa a tanga voar”? Ainda soa nos meus ouvidos os berrantes e as sanfonas, a gaiatice típica dos sertanejos, com as suas interjeições de satisfação, eles gritam “Ihiiiii”, “Ihiiiii”, “Ihiiiii”. Ai, ai, saudade do tamanho da poeira do Sertão.
 
 ## Confira algumas fotos (Créditos das fotografias abaixo são da Isa Apolinário)
-
-![Foto: Isa Apolinário](https://raw.githubusercontent.com/revistazena/img/master/missa-do-vaqueiro-2019-02-foto-isa-apolinario.jpg)
-![Foto: Isa Apolinário](https://raw.githubusercontent.com/revistazena/img/master/missa-do-vaqueiro-2019-03-foto-isa-apolinario.jpg)
-![Foto: Isa Apolinário](https://raw.githubusercontent.com/revistazena/img/master/missa-do-vaqueiro-2019-04-foto-isa-apolinario.jpg)
-![Foto: Isa Apolinário](https://raw.githubusercontent.com/revistazena/img/master/missa-do-vaqueiro-2019-05-foto-isa-apolinario.jpg)
-![Foto: Isa Apolinário](https://raw.githubusercontent.com/revistazena/img/master/missa-do-vaqueiro-2019-07-foto-isa-apolinario.jpg)
-![Foto: Isa Apolinário](https://raw.githubusercontent.com/revistazena/img/master/missa-do-vaqueiro-2019-07-foto-isa-apolinario.gif)
-![Foto: Isa Apolinário](https://raw.githubusercontent.com/revistazena/img/master/missa-do-vaqueiro-2019-01.jpg)
-
+<div class="lista-pinturas">
+    <figure>![Foto: Isa Apolinário](https://raw.githubusercontent.com/revistazena/img/master/missa-do-vaqueiro-2019-02-foto-isa-apolinario.jpg)</figure>
+    <figure>![Foto: Isa Apolinário](https://raw.githubusercontent.com/revistazena/img/master/missa-do-vaqueiro-2019-03-foto-isa-apolinario.jpg)</figure>
+    <figure>![Foto: Isa Apolinário](https://raw.githubusercontent.com/revistazena/img/master/missa-do-vaqueiro-2019-04-foto-isa-apolinario.jpg)</figure>
+    <figure>![Foto: Isa Apolinário](https://raw.githubusercontent.com/revistazena/img/master/missa-do-vaqueiro-2019-05-foto-isa-apolinario.jpg)</figure>
+    <figure>![Foto: Isa Apolinário](https://raw.githubusercontent.com/revistazena/img/master/missa-do-vaqueiro-2019-07-foto-isa-apolinario.jpg)</figure>
+    <figure>![Foto: Isa Apolinário](https://raw.githubusercontent.com/revistazena/img/master/missa-do-vaqueiro-2019-07-foto-isa-apolinario.gif)</figure>
+    <figure>![Foto: Isa Apolinário](https://raw.githubusercontent.com/revistazena/img/master/missa-do-vaqueiro-2019-01.jpg)
+  </figure>
+  </div>
