@@ -2,7 +2,7 @@
 layout: page
 title: "Contato"
 marcador: contato
-image: "https://raw.githubusercontent.com/revistazena/img/master/procurando-ilustracao-alexandre-dantas.jpg"
+image: "procurando-ilustracao-alexandre-dantas.jpg"
 legend: Procurando, Ilustração de Alexandre Dantas especial para a Revista Žena
 ---
 
